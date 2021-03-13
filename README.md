@@ -44,15 +44,7 @@
      
        <section id="fundo">
  						
- 								var xuxa function(){div.classList.add('#formac');
  								
- 								link =  document.querySelector('#gaga2' );
- 								div =  document.querySelector('#gaga2');
- 	        		window.addEventListener("click", xuxa});
-            setTimeout('xuxa', 500);
- 								document.getElementById("#gaga2"); -->
- 							</script>
-
  							  
             <main class="conteudo"> <!-- define o conteúdo principal dentro do <body> --> 
  							  		
