@@ -43,7 +43,7 @@
              
      
        <section id="fundo">
- 						<!--  <script>
+ 						
  								var xuxa function(){div.classList.add('#formac');
  								
  								link =  document.querySelector('#gaga2' );
